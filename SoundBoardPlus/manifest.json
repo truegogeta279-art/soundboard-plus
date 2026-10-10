@@ -1,0 +1,15 @@
+{
+  "name": "SoundBoard+",
+  "description": "Custom soundboard for voice chat. Play sounds through your mic in VCs. Manage sounds from Downloads with a full GUI.",
+  "authors": [
+    {
+      "name": "SoundBoard+",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_volume_high"
+  },
+  "hash": "9d73a1bfe9fcbc8b94ae56f9d7a629d530cb7d5a37a7b0d4a08116fe85ef250b"
+}
